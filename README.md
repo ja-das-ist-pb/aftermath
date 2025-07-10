@@ -1,7 +1,7 @@
 **aftermath**
 
 "aftermath" is a mathematical Python model, made by 
-Zhong-Zheng senioe high school students
+Zhong-Zheng senior high school students
 
 why do I suggest u to use the this model instead of 
 using "math" model in python?
