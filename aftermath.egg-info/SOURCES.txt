@@ -1,0 +1,10 @@
+pyproject.toml
+setup.py
+aftermath/__init__.py
+aftermath/engine.py
+aftermath/errors.py
+aftermath/example.py
+aftermath.egg-info/PKG-INFO
+aftermath.egg-info/SOURCES.txt
+aftermath.egg-info/dependency_links.txt
+aftermath.egg-info/top_level.txt

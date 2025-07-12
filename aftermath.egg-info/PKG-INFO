@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: aftermath
+Version: 0.1.0
+Summary: A lightweight math module with matrix, vector, and combinatoric functions.
+Home-page: https://github.com/ja-das-ist-pb/aftermath
+Author: ja-das-ist-pb
+Author-email: pb <paulpb0725@gmail.com>
+License: MIT
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Dynamic: author
+Dynamic: home-page
+Dynamic: requires-python
